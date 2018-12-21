@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FieldPositioningSystem", "FieldPositioningSystem\FieldPositioningSystem.pyproj", "{579C3DC9-F462-49B3-A420-F99004C27758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{579C3DC9-F462-49B3-A420-F99004C27758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579C3DC9-F462-49B3-A420-F99004C27758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAB21AEC-2890-4410-AA41-662F98DD8409}
+	EndGlobalSection
+EndGlobal
